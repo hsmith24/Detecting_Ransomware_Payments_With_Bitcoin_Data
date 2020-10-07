@@ -17,8 +17,8 @@ Each notebook has a section for cleaning, balancing and labelling data, and a se
 
 
 ### slides
-This folder contains the slide deck I used when presenting on this project.
+This folder contains the slide deck I used when presenting this project.
 
 
 ### presentation
-This folder contains an mp4 of me presenting on this project.
+This folder contains an mp4 of me presenting this project.
